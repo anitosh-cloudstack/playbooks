@@ -1,0 +1,7 @@
+[balancer]
+demolab1 ansible_user=ansible
+[web1]
+demolab2 ansible_user=root
+[web2]
+demosrv2 ansible_user=root
+
